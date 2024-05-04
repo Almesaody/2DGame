@@ -10,6 +10,8 @@ Live Demo : https://jslegenddev.github.io/portfolio/
 
 # How to run
 
+Note: You need `Node.js` and `npm` installed on your machine.
+
 `npm install` then `npm run dev`
 
 # How to build
